@@ -7,5 +7,5 @@ jobs:
      steps:
       - name: Execucação
         run: |
-         "echo XPT8"
+         echo "XPT8"
   
